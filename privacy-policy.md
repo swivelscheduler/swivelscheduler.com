@@ -1,10 +1,9 @@
 ---
-layout: page
 title: Privacy Policy
-description:
+layout: page
+description: 
 keywords: 
 ---
-
 
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Delectus voluptatum reiciendis aut fugiat illum itaque accusamus aspernatur porro ducimus officiis tempora aperiam odit dolorum, eveniet deserunt veritatis rerum quo explicabo.
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Delectus voluptatum reiciendis aut fugiat illum itaque accusamus aspernatur porro ducimus officiis tempora aperiam odit dolorum, eveniet deserunt veritatis rerum quo explicabo.
