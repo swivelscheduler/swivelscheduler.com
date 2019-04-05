@@ -1,0 +1,14 @@
+.btn {
+	display: inline-block;
+	vertical-align: top;
+	color: $white;
+	font-weight: 500;
+	background: $secondary;
+	padding: 8px 24px;
+	border-radius: 3px;
+
+	&:hover {
+		color: $white;
+		background: darken($secondary, 15%);
+	}
+}

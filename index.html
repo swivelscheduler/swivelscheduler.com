@@ -1,0 +1,62 @@
+---
+layout: default
+---
+
+<section class="intro-section">
+	<div class="container">
+		<div class="two-columns">
+			<div class="column">
+				<header class="heading-holder">
+					<h1>Automate Your Speech Therapy Planning</h1>
+					<span class="subtitle">Make planning your sessions easy & automatic. View your schedule on any device. Never forget a goal again.</span>
+				</header>
+				{% include blocks/convertkit-form.html %}
+			</div>
+			<div class="column">
+				<div class="image-intro">
+					<img src="{{site.url}}/images/img01.png" alt="image description">
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section id="featuresSection" class="features-section">
+	<div class="container">
+		<header class="heading-holder">
+			<h1>Features</h1>
+		</header>
+		{% include blocks/features-slider.html block_content = site.data.content.features_slider %}
+	</div>
+</section>
+<section id="pricingSection" class="pricing-section">
+	<div class="container">
+		<header class="heading-holder">
+			<h1>Pricing</h1>
+			<span class="subtitle">7 Day Free Trial then just $9.99/month</span>
+			<p>10% discount for annual payment</p>
+		</header>
+		<div class="info-holder">
+			<h6>Includes:</h6>
+			<ul class="circle-list">
+				<li>A big important feature</li>
+				<li>Another great feature</li>
+				<li>The 3rd huge feature</li>
+				<li>Unlimited Students</li>
+				<li>Schedule up to 1 year in the future</li>
+				<li>Email Customer Support</li>
+			</ul>
+		</div>
+	</div>
+</section>
+<section class="contact-section">
+	<div class="container">
+		<header class="heading-holder">
+			<h1>Coming Soon</h1>
+			<span class="subtitle">Enter your email address to be notified when Swivel launches.</span>
+		</header>
+		<div class="form-wrap">
+			{% include blocks/convertkit-form.html %}
+			<p>We hate spam. We promise not to give out any of the information entered onto this site.</p>
+		</div>
+	</div>
+</section>

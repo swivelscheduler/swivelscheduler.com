@@ -1,0 +1,9 @@
+.features-section {
+	padding: 32px 0;
+	@include media('>=tablet') {
+		padding: 40px 0;
+	}
+	@include media('>=desktop') {
+		padding: 55px 0;
+	}
+}

@@ -1,0 +1,154 @@
+.resize-active {
+	*{
+		transition: none !important;
+	}
+}
+
+#wrapper {
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+	display: flex;
+}
+
+.w1{
+	min-height: 100vh;
+	display: flex;
+	width: 100%;
+	flex-direction: column;
+	>#main{
+		flex-grow: 1;
+	}
+}
+
+.container {
+	max-width: 992px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+.two-columns {
+	@include media('>=tablet') {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		margin: 0 -5px;
+	}
+}
+
+.column {
+	@include media('>=tablet') {
+		max-width: 50%;
+		flex: 0 0 50%;
+		padding: 0 5px;
+	}
+	
+	&:only-child {
+		@include media('>=tablet') {
+			max-width: 100%;
+			flex: 0 0 100%;
+		}
+	}
+}
+
+.heading-holder {
+	text-align: center;
+	padding: 0 0 25px;
+	h1, h2{
+		letter-spacing: .08em;
+	}
+	> * {
+		&:last-child{
+			margin-bottom: 0;
+		}
+	}
+	.subtitle {
+		display: block;
+		@include media('>=tablet') {
+			font-size: 18px;
+		}
+		@include media('>=desktop') {
+			font-size: 20px;
+		}
+	}
+}
+
+.info-holder {
+	max-width: 315px;
+	margin: 0 auto;
+}
+
+.circle-list {
+	@extend %listreset;
+	line-height: 1.2;
+	margin-bottom: .8em;
+	&:last-child{
+		margin-bottom: 0;
+	}
+	li {
+		display: flex;
+		position: relative;
+		&:not(:last-child){
+			margin: 0 0 .25em;
+		}
+		&:before {
+			display: inline-block;
+			flex-shrink: 0;
+			content: '•';
+			color: inherit;
+			margin: 0 1em 0 1.1em;
+		}
+	}
+}
+
+.single-article{
+	padding: 32px 0;
+	@include media('>=tablet') {
+		padding: 40px 0;
+	}
+	.entry-header{
+		margin: 0 0 .8em;
+		> * {
+			&:last-child{
+				margin: 0;
+			}
+		}
+	}
+	h1,h2,h3,h4,h5,h6{
+		text-transform: none;
+	}
+}
+
+blockquote{
+	border-left: 2px solid $blue;
+	margin: 0 0 .8em;
+	padding: .8em .8em .8em 1.2em;
+}
+
+.error-page{
+	#main{
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: 100%;
+	}
+	@include media('>=tablet') {
+		font-size: 20px;
+	}
+	.single-article{
+		text-align: center;
+		h1{
+			font-size: 48px;
+			line-height: 1;
+			@include media('>=tablet') {
+				font-size: 64px;
+			}
+		}
+		a{
+			color: $blue;
+			&:hover{
+				color: $base-text-color;
+			}
+		}
+	}
+}

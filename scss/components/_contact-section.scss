@@ -1,0 +1,47 @@
+.contact-section {
+	font-weight: 400;
+	padding: 32px 0;
+
+	@include media('>=tablet') {
+		padding: 40px 0;
+	}
+	
+	@include media('>=desktop') {
+		padding: 75px 0 65px;
+	}
+
+	.heading-holder {
+		padding: 0 0 1.2em;
+		@include media('>=desktop') {
+			padding: 0 0 40px;
+		}
+	}
+
+	.contact-submit {
+		font-weight: 700;
+
+		> span {
+			padding: 10px 40px;
+		}
+	}
+	
+	.form-wrap{
+		text-align: center;
+		max-width: 475px;
+		margin: 0 auto;
+		p {
+			font-size: 13px;
+		}
+	}
+
+	.contact-form {
+		margin-bottom: 0;
+		.contact-input {
+			padding: 9px;
+		}
+	}
+
+	.subtitle {
+		font-size: 18px;
+	}
+}

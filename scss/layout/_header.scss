@@ -1,0 +1,169 @@
+.sticky-wrap {
+	&.fixed-position {
+		top: 0;
+		left: 0;
+
+		#header {
+			box-shadow: 0 5px 24px rgba(0, 0, 0, 0.1);
+			background: $white;
+		}
+	}
+}
+
+#header {
+	@include animate(box-shadow background);
+	padding: 10px 0;
+	background: $light-blue;
+	position: relative;
+	z-index: 9999;
+
+	@include media('>=tablet') {
+		padding: 24px 0;
+	}
+
+	.container {
+		display: flex;
+		align-items: center;
+	}
+}
+
+.logo {
+	flex-shrink: 0;
+	width: 96px;
+	@include media('>=tablet') {
+		width: 130px;
+	}
+}
+
+.main-nav {
+	@include media('>=tablet') {
+		flex-grow: 1;
+	}
+}
+
+.nav-menu {
+	@extend %listreset;
+
+	@include media('>=tablet') {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: flex-end;
+		align-items: center;
+		margin: 0 -12px;
+	}
+
+	li {
+		@include media('>=tablet') {
+			padding: 0 12px;
+		}
+	}
+
+	a:not(.btn) {
+		display: block;
+
+		@include media('<tablet') {
+			padding: 15px 0;
+		}
+
+		&.link-down {
+			color: $black;
+			font-size: 14px;
+			color: $black;
+			text-transform: uppercase;
+			letter-spacing: 0.15em;
+
+			&:hover,
+			&.anchor-active {
+				color: $secondary;
+			}
+		}
+	}
+
+	.btn {
+		@include media('<tablet') {
+			margin: 15px 0;
+		}
+	}
+}
+
+.burger-wrap{
+	margin: 0 0 0 auto;
+}
+
+.nav-opener {
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	position: relative;
+
+	@include media ('>=tablet') {
+		display: none;
+	}
+
+	&:before,
+	&:after,
+	span {
+		background: $blue;
+		position: absolute;
+		top: 50%;
+		left: 15%;
+		right: 15%;
+		height: 4px;
+		margin-top: -2px; /* height/2 */
+		transition: all .3s linear;
+	}
+
+	&:before,
+	&:after{
+		content: '';
+		top: 30%;
+	}
+
+	&:after {
+		top:70%;
+	}
+
+	.nav-active & {
+		span {
+		  opacity: 0;
+		}
+		&:before,
+		&:after {
+		  transform:rotate(45deg);
+		  top:50%;
+		  left:15%;
+		  right:15%;
+		}
+		&:after {
+		  transform:rotate(-45deg);
+		}
+	}
+}
+
+.nav-drop {
+	@include animate(opacity visibility);
+
+	@include media ('<tablet') {
+		opacity: 0;
+		visibility: hidden;
+		overflow: hidden;
+		position: absolute;
+		top: 100%;
+		left: 0;
+		right: 0;
+		z-index: 999;
+		color: white;
+		background: $white;
+		padding: 20px 20px 35px;
+		box-shadow: inset 0 5px 6px rgba(0, 0, 0, 0.05), 0 5px 6px rgba(0, 0, 0, 0.05);
+	}
+
+	.nav-active & {
+		opacity: 1;
+		visibility: visible;
+	}
+}
+
+.resize-active *{
+	transition: none !important;
+}

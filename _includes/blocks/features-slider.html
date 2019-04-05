@@ -1,0 +1,20 @@
+<div class="gallery-box">
+	<div class="slider-main">
+		{% for slide in include.block_content %}
+		<div>
+			<img src="{{ site.url }}/{{ slide.image }}" alt="{{ slide.heading }}">
+		</div>
+		{% endfor %}
+	</div>
+	<div class="slider-nav">
+		{% for slide in include.block_content %}
+		<div>
+			<div class="slide-heading">
+				<img src="{{ site.url }}/{{ slide.icon }}" alt="{{ slide.heading }}">
+			</div>
+			<h2 class="title-gallery">{{ slide.heading }}</h2>
+			<p>{{ slide.text }}</p>
+		</div>
+		{% endfor %}
+	</div>
+</div>
