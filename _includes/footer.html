@@ -1,6 +1,6 @@
 <footer id="footer">
 	<div class="container">
-		<span class="copyright"><a href="{{ site.url }}">Swivel Scheduler</a> &copy;2019</span>
+		<span class="copyright"><a href="{{ site.url }}">Swivel Scheduler</a> &copy; {{ "now" | date: "%Y" }}</span>
 		<nav class="footer-navigation">
 			<ul>
 				{% for link in site.data.navigation.footer_links %}
