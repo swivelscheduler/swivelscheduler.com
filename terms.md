@@ -1,7 +1,7 @@
 ---
 title: Terms of Service
-description: 
-keywords: 
+description: Swivel Scheduler Terms of Service
+keywords: terms of service
 layout: page
 ---
 
