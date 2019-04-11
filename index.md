@@ -1,5 +1,7 @@
 ---
 title: Home
+description: Make planning your sessions easy & automatic. View your schedule on any device. Never forget a goal again.
+layout: home
 intro_heading: Automate Your Speech Therapy Planning
 intro_subtitle: Make planning your sessions easy & automatic. View your schedule on
   any device. Never forget a goal again.
@@ -40,6 +42,5 @@ contact_heading: Coming Soon
 contact_subtitle: Enter your email address to be notified when Swivel launches.
 contact_form_text: We hate spam. We promise not to give out any of the information
   entered onto this site.
-layout: home
 ---
 
