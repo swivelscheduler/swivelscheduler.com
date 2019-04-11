@@ -1,72 +1,48 @@
 ---
+layout: home
+
+# Intro Section Image:
+intro_heading: Automate Your Speech Therapy Planning
+intro_subtitle: Make planning your sessions easy & automatic. View your schedule on any device. Never forget a goal again.
+intro_img: images/img01.png
+intro_img2x: images/img01-2x.png
+
+# Features Section Content:
+features_heading: Features
+features_slider:
+  - image: 'images/img-gallery01.png'
+    image2x: 'images/img-gallery01-2x.png'
+    icon: 'images/woman-user.svg'
+    heading: Schedule Your Students
+    text: Quickly and easily enter your therapy schedule.
+
+  - image: 'images/img-gallery02.png'
+    image2x: 'images/img-gallery02-2x.png'
+    icon: 'images/arrow-target.svg'
+    heading: Add Students Goals
+    text: Easily enter in student goals. Choose how often to target them and let Swivel do the rest.
+
+  - image: 'images/img-gallery03.png'
+    image2x: 'images/img-gallery03-2x.png'
+    icon: 'images/orion_agenda.svg'
+    heading: Automatically Generate Schedule
+    text: "Let Swivel take care of planning your student goals for each session. Know your students' target goals weeks in advance for quick and easy planning. Never forget a goal again."
+
+# Pricing Section Content:
+pricing_heading: Pricing
+pricing_subtitle: 7 Day Free Trial then just $9.99/month
+pricing_header_text: 10% discount for annual payment
+pricing_body_header: 'Includes:'
+pricing_body_list:
+  - A big important feature
+  - Another great feature
+  - The 3rd huge feature
+  - Unlimited Students
+  - Schedule up to 1 year in the future
+  - Email Customer Support
+
+# Contact Section Content:
+contact_heading: Coming Soon
+contact_subtitle: Enter your email address to be notified when Swivel launches.
+contact_form_text: We hate spam. We promise not to give out any of the information entered onto this site.
 ---
-
-<!-- Intro Section -->
-<section class="intro-section">
-	<div class="container">
-		<div class="two-columns">
-			<div class="column">
-				<header class="heading-holder">
-                    <h1>{{ page.intro_heading }}</h1>
-                    <p class="subtitle">{{ page.intro_subtitle }}</p>
-					<!-- Include Markdown Content for Intro Section -->
-				</header>
-				<!-- Include Convertkit Form -->
-				{% include blocks/convertkit-form.html %}
-			</div>
-			<div class="column">
-				<div class="image-intro">
-					<picture>
-						<source srcset="{{ site.url }}/{{ page.intro_img }}, {{ site.url }}/{{ page.intro_img2x }} 2x">
-						<img src="{{ site.url }}/{{ page.intro_img }}" alt="Image Description">
-					</picture>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-
-<!-- Features Section -->
-<section id="featuresSection" class="features-section">
-	<div class="container">
-		<header class="heading-holder">
-			<h1>{{ page.features_heading }}</h1>
-		</header>
-		<!-- Include Features Slider -->
-		{% include blocks/features-slider.html block_content = page.features_slider %}
-	</div>
-</section>
-
-<!-- Pricing Section -->
-<section id="pricingSection" class="pricing-section">
-	<div class="container">
-		<header class="heading-holder">
-            <h1>{{ page.pricing_heading }}</h1>
-            <p class="subtitle">{{ page.pricing_subtitle }}</p>
-            <p>{{ page.pricing_header_text }}</p>
-		</header>
-		<div class="info-holder">
-            <h6>{{ page.pricing_body_header }}</h6>
-            <ul class="circle-list">
-                {% for item in page.pricing_body_list %}
-                <li>{{ item }}</li>
-                {% endfor %}
-            </ul>
-		</div>
-	</div>
-</section>
-
-<!-- Contact Section -->
-<section class="contact-section">
-	<div class="container">
-		<header class="heading-holder">
-            <h1>{{ page.contact_heading }}</h1>
-            <p class="subtitle">{{ page.contact_subtitle }}</p>
-		</header>
-		<div class="form-wrap">
-			<!-- Include Convertkit Form -->
-			{% include blocks/convertkit-form.html %}
-			<p>{{ page.contact_form_text }}</p>
-		</div>
-	</div>
-</section>
