@@ -2,7 +2,10 @@
 	<div class="slider-main">
 		{% for slide in include.block_content %}
 		<div>
-			<img src="{{ site.url }}/{{ slide.image }}" alt="{{ slide.heading }}">
+			<picture>
+				<source srcset="{{ site.url }}/{{ slide.image }}, {{ site.url }}/{{ slide.image2x }} 2x">
+				<img src="{{ site.url }}/{{ slide.image }}" alt="">
+			</picture>
 		</div>
 		{% endfor %}
 	</div>
