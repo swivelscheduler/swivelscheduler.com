@@ -1,37 +1,35 @@
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+---
 title: Swivel Scheduler
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: info@swivelscheduler.com
-description:
-url: "http://swivelscheduler.com" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: ""
+description: 
+url: http://swivelscheduler.com
+baseurl: ''
 twitter_username: swivelscheduler
-github_username:  swivelscheduler
-
-# Build settings
+github_username: swivelscheduler
 markdown: kramdown
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-tidy
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
+- jekyll-feed
+- jekyll-sitemap
+- jekyll-tidy
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - gulpfile.js
-  - package.json
-  - package-lock.json
-  - scss
-  - README.md
-  - CNAME
+- Gemfile
+- Gemfile.lock
+- node_modules
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/
+- gulpfile.js
+- package.json
+- package-lock.json
+- scss
+- README.md
+- CNAME
