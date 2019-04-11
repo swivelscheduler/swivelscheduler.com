@@ -10,7 +10,7 @@ collections:
     output: true
 email: info@swivelscheduler.com
 description: 
-url: swivelscheduler.com
+url: "//swivelscheduler.com"
 baseurl: "/"
 twitter_username: swivelscheduler
 github_username: swivelscheduler
