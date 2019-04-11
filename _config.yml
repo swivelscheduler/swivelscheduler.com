@@ -9,9 +9,9 @@ collections:
     title: Uploads
     output: true
 email: info@swivelscheduler.com
-description:
-url: http://swivelscheduler.com
-baseurl: '/'
+description: 
+url: "//swivelscheduler.com"
+baseurl: "/"
 twitter_username: swivelscheduler
 github_username: swivelscheduler
 markdown: kramdown
