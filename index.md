@@ -2,7 +2,6 @@
 title: Swivel Scheduler &middot; SLP Scheduling Tool
 description: Automate your Speech Therapy Training. Make planning your sessions easy
   & automatic. View your schedule on any device. Never forget a goal again.
-layout: home
 intro_heading: Automate Your Speech Therapy Planning
 intro_subtitle: Make planning your sessions easy & automatic. View your schedule on
   any device. Never forget a goal again.
@@ -33,15 +32,15 @@ pricing_subtitle: 7 Day Free Trial then just $9.99/month
 pricing_header_text: 10% discount for annual payment
 pricing_body_header: 'Includes:'
 pricing_body_list:
-- A big important feature
-- Another great feature
-- The 3rd huge feature
 - Unlimited Students
-- Schedule up to 1 year in the future
+- Unlimited Goals
+- Unlimited Scheduled Days
+- Set up your SLP Schedule up to 1 year in the future
 - Email Customer Support
 contact_heading: Coming Soon
 contact_subtitle: Enter your email address to be notified when Swivel launches.
 contact_form_text: We hate spam. We promise not to give out any of the information
   entered onto this site.
+layout: home
 ---
 
