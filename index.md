@@ -13,7 +13,7 @@ features_slider:
   image2x: images/img-gallery01-2x.png
   icon: images/woman-user.svg
   heading: Schedule Your Students
-  text: Quickly and easily enter your therapy schedule.
+  text: Quickly and easily enter your therapy schedule and students.
 - image: images/img-gallery02.png
   image2x: images/img-gallery02-2x.png
   icon: images/arrow-target.svg
