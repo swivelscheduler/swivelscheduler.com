@@ -24,7 +24,7 @@ features_slider:
   image2x: images/img-gallery03-2x.png
   icon: images/orion_agenda.svg
   heading: Automatically Generate Schedule
-  text: Let Swivel take care of planning your student goals for each session. Know
+  text: Swivel will take care of planning your student goals for each session. Know
     your students' target goals weeks in advance for quick and easy planning. Never
     forget a goal again.
 pricing_heading: Pricing
