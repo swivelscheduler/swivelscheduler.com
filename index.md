@@ -34,7 +34,7 @@ pricing_body_header: 'Includes:'
 pricing_body_list:
 - Unlimited Students
 - Unlimited Goals
-- Unlimited Scheduled Days
+- View on any device
 - HIPAA Compliant
 - Email Customer Support
 contact_heading: Coming Soon
