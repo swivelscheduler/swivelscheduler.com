@@ -35,7 +35,7 @@ pricing_body_list:
 - Unlimited Students
 - Unlimited Goals
 - Unlimited Scheduled Days
-- Set up your SLP Schedule up to 1 year in the future
+- HIPAA Compliant
 - Email Customer Support
 contact_heading: Coming Soon
 contact_subtitle: Enter your email address to be notified when Swivel launches.
