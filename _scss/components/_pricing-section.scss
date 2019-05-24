@@ -37,4 +37,19 @@
 		letter-spacing: .2em;
 		margin: 0 0 .5em;
 	}
+
+	.info-holder {
+		margin-bottom: 30px;
+	}
+
+	a.btn {
+		background: #fff;
+		color: #79cec9;
+		display: block;
+		width: 142px;
+		margin: 0 auto;
+		&:hover {
+			background: transparentize(#fff, .2);
+		}
+	}
 }

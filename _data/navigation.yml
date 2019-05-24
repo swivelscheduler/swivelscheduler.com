@@ -12,11 +12,11 @@ main_nav:
     is_uppercase: true
 
   - title: 'Log In'
-    url: '//app.swivelscheduler.com/login'
+    url: 'https://app.swivelscheduler.com/login'
     is_uppercase: false
 
   - title: 'Sign Up'
-    url: '//app.swivelscheduler.com/signup'
+    url: 'https://app.swivelscheduler.com/signup'
     is_btn: true
 
 # ---------------------------------------------------------

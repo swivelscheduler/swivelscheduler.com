@@ -32,11 +32,11 @@
 			font-size: 32px;
 		}
 	}
-	.contact-form{
-		margin: 0 auto;
-		@include media('>=tablet') {
-			margin: 0;
-		}
+
+	.btn,
+	a {
+		display: inline-block;
+		padding: 10px 40px;
 	}
 }
 
