@@ -4,19 +4,19 @@
 
 main_nav:
   - title: 'Features'
-    url: '#featuresSection'
+    url: '/#featuresSection'
     is_uppercase: true
 
   - title: 'Pricing'
-    url: '#pricingSection'
+    url: '/#pricingSection'
     is_uppercase: true
 
   - title: 'Log In'
-    url: '/'
+    url: '//app.swivelscheduler.com/login'
     is_uppercase: false
 
   - title: 'Sign Up'
-    url: '/'
+    url: '//app.swivelscheduler.com/signup'
     is_btn: true
 
 # ---------------------------------------------------------
