@@ -37,8 +37,9 @@ pricing_body_list:
 - View on any device
 - HIPAA Compliant
 - Email Customer Support
-contact_heading: Coming Soon
-contact_subtitle: Enter your email address to be notified when Swivel launches.
+contact_heading: Keep in touch
+contact_subtitle: Enter your email address to be notified about SLP news and new Swivel
+  features.
 contact_form_text: We hate spam. We promise not to give out any of the information
   entered onto this site.
 layout: home
