@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 email: info@swivelscheduler.com
-description: 
+description:
 url: "//swivelscheduler.com"
 baseurl: "/"
 twitter_username: swivelscheduler
@@ -19,6 +19,7 @@ plugins:
 - jekyll-feed
 - jekyll-sitemap
 - jekyll-redirect-from
+- jekyll-gzip
 exclude:
 - Gemfile
 - Gemfile.lock
