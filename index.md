@@ -28,7 +28,7 @@ features_slider:
     your students' target goals weeks in advance for quick and easy planning. Never
     forget a goal again.
 pricing_heading: Pricing
-pricing_subtitle: 7 Day Free Trial then just $9.99/month
+pricing_subtitle: 14 DAY FREE TRIAL then just $9.99/month
 pricing_header_text: 10% discount for annual payment
 pricing_body_header: 'Includes:'
 pricing_body_list:
