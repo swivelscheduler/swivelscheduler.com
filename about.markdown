@@ -5,11 +5,11 @@ permalink: "/about"
 layout: page
 ---
 
-This is the about page...
 
 Click on the links below to view video walk throughs of SWIVEL 
 
-[Logging Into Your Dashboard](https://youtu.be/pcx8_l2v2NQ)
+[Logging Into Your SWIVEL Scheduler Account
+](https://youtu.be/Y92mYFlcWEg)
 
 [Overview of Your SWIVEL Scheduler Dashboard](https://youtu.be/wD68YBGiutw)
 
