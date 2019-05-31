@@ -6,3 +6,19 @@ layout: page
 ---
 
 This is the about page...
+
+Click on the links below to view video walk throughs of SWIVEL 
+
+[Logging Into Your Dashboard](https://youtu.be/pcx8_l2v2NQ)
+
+[Overview of Your SWIVEL Scheduler Dashboard](https://youtu.be/wD68YBGiutw)
+
+[How to Add A Student](https://youtu.be/TmLNbSG7OlQ)
+
+[Adding and Managing Student Goals](https://youtu.be/CR5PeEHa-Zk)
+
+[Adding Scheduled Days](https://youtu.be/PW6sJ1crmxM)
+
+[How to Generate Your Therapy Schedule](https://youtu.be/uMbwqZRNlq8)
+
+[How to Add a Skip Day](https://youtu.be/IziBTPrU9IA)
