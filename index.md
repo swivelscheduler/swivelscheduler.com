@@ -29,9 +29,8 @@ features_slider:
     forget a goal again.
 pricing_heading: Pricing
 pricing_subtitle: 14 DAY FREE TRIAL then just $9.99/month
-pricing_header_text: |-
-  You will be charged upon the completion of your trial
-  10% discount for annual payment
+pricing_header_text: "You will be charged upon the completion of your trial.  \n10%
+  discount for annual payment"
 pricing_body_header: 'Includes:'
 pricing_body_list:
 - Unlimited Students
