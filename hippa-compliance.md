@@ -1,31 +1,10 @@
 ---
-title: HIPPA Compliance
+title: HIPAA Compliance
 description: Swivel Scheduler HIPPA Compliance
 keywords: HIPPA compliance
 layout: page
 ---
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Delectus voluptatum reiciendis aut fugiat illum itaque accusamus aspernatur porro ducimus officiis tempora aperiam odit dolorum, eveniet deserunt veritatis rerum quo explicabo.
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Delectus voluptatum reiciendis aut fugiat illum itaque accusamus aspernatur porro ducimus officiis tempora aperiam odit dolorum, eveniet deserunt veritatis rerum quo explicabo.
+At SWIVEL Scheduler we strive for HIPAA compliance to protect your and your clients.  By using hosting and servers that meet HIPAA standards, we will work hard to keep everyone's information private and secure.  
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Delectus voluptatum reiciendis aut fugiat illum itaque accusamus aspernatur porro ducimus officiis tempora aperiam odit dolorum, eveniet deserunt veritatis rerum quo explicabo.
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Delectus voluptatum reiciendis aut fugiat illum itaque accusamus aspernatur porro ducimus officiis tempora aperiam odit dolorum, eveniet deserunt veritatis rerum quo explicabo.
-
-{:.circle-list}
-* Eveniet deserunt veritatis rerum quo explicabo
-* Officiis tempora aperiam odit
-* Delectus voluptatum reiciendis aut fugiat illum
-* Eveniet deserunt veritatis rerum quo explicabo
-* Officiis tempora aperiam odit
-* Delectus voluptatum reiciendis aut fugiat illum
-
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
-
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Delectus voluptatum reiciendis aut fugiat illum itaque accusamus aspernatur porro ducimus officiis tempora aperiam odit dolorum, eveniet deserunt veritatis rerum quo explicabo.
-
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
+For more information on HIPAA, you can visit the U.S. Department of Health and Human Services website by clicking [HERE.](https://www.hhs.gov/hipaa/index.html)
