@@ -1,6 +1,6 @@
 ---
 title: HIPAA Compliance
-description: Swivel Scheduler HIPPA Compliance
+description: Swivel Scheduler HIPAA Compliance
 keywords: HIPPA compliance
 layout: page
 ---
