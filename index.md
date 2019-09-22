@@ -3,8 +3,8 @@ title: Swivel Scheduler &middot; SLP Scheduling Tool
 description: Automate your Speech Therapy Training. Make planning your sessions easy
   & automatic. View your schedule on any device. Never forget a goal again.
 intro_heading: Never Forget A Goal Again.
-intro_subtitle: 'Stop feeling overwhelmed with goal management. Make planning your
-  sessions quick & easy. '
+intro_subtitle: 'Stop feeling overwhelmed with goal management and data. Make planning
+  your sessions quick & easy and progress updates a breeze. '
 intro_img: images/img01.png
 intro_img2x: images/img01-2x.png
 features_heading: Features
@@ -25,8 +25,8 @@ features_slider:
   icon: images/orion_agenda.svg
   heading: Automatically Generate Schedule
   text: Swivel will take care of planning your student goals for each session. Know
-    your students' target goals weeks in advance for quick and easy planning. Never
-    forget a goal again.
+    your students' target goals weeks in advance for quick and easy planning. Have
+    ready to go every session. Never forget a goal again!
 pricing_heading: Pricing
 pricing_subtitle: 14 DAY FREE TRIAL then just $9.99/month
 pricing_header_text: "You will be charged upon the completion of your trial.  \n10%
@@ -37,6 +37,7 @@ pricing_body_list:
 - Unlimited Goals
 - View on any device
 - HIPAA Compliant
+- Data Collection
 - 'Email Customer Support: info@swivelscheduler.com'
 contact_heading: Keep in touch
 contact_subtitle: 'Enter your email address to be notified about SLP news and new
