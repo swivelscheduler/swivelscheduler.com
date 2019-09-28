@@ -23,3 +23,5 @@ Click on the links below to view video walk throughs of SWIVEL
 [How to Generate Your Therapy Schedule](https://youtu.be/uMbwqZRNlq8)
 
 [How to Add a Skip Day](https://youtu.be/IziBTPrU9IA)
+
+[All videos](bit.ly/swivelvideo)
