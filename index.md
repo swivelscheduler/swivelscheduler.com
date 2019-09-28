@@ -46,7 +46,7 @@ contact_form_text: |-
   We hate spam. We promise not to give out any of the information entered onto this site.
 
 
-  To contact us, please email info@swivelscheduler.com
+  To contact us, please email info@swivelscheduler.com  For VIDEO TOURS of SWIVEL's feature please visit bit.ly/swivelvideos
 layout: home
 ---
 
