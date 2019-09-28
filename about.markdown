@@ -1,8 +1,8 @@
 ---
-title: About
+title: Tutorials
 date: 2019-05-24 21:51:00 Z
 permalink: "/about"
-redirect_to: https://app.swivelscheduler.com/about
+redirect_to: https://app.swivelscheduler.com/tutorials
 layout: page
 ---
 
