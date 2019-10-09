@@ -42,8 +42,11 @@ pricing_body_list:
 contact_heading: Keep in touch
 contact_subtitle: Enter your email address to be notified about SLP news and new Swivel
   features.  Video tours of SWIVEL's features can be viewed at bit.ly/swivelvideos
-contact_form_text: "We hate spam. We promise not to give out any of the information
-  entered onto this site.\n\n\nTo contact us, please email info@swivelscheduler.com"
+contact_form_text: |-
+  We hate spam. We promise not to give out any of the information entered onto this site.
+
+
+  To contact us, please email info@swivelscheduler.com
 layout: home
 ---
 
