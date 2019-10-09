@@ -38,13 +38,12 @@ pricing_body_list:
 - View on any device
 - HIPAA Compliant
 - Data Collection
-- 'Email Customer Support: [info@swivelscheduler.com](mailto:info@swivelscheduler.com)'
+- 'Email Customer Support: info@swivelscheduler.com'
 contact_heading: Keep in touch
 contact_subtitle: Enter your email address to be notified about SLP news and new Swivel
-  features.  Video tours of SWIVEL's features can be viewed at [bit.ly/swivelvideos](bit.ly/swivelvideos)
+  features.  Video tours of SWIVEL's features can be viewed at bit.ly/swivelvideos
 contact_form_text: "We hate spam. We promise not to give out any of the information
-  entered onto this site.\n\n\nTo contact us, please email [info@swivelscheduler.com](mailto:info@swivelscheduler.com)
-  \ "
+  entered onto this site.\n\n\nTo contact us, please email info@swivelscheduler.com"
 layout: home
 ---
 
