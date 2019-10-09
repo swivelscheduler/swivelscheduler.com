@@ -28,8 +28,8 @@ features_slider:
     your students' target goals weeks in advance for quick and easy planning. Have
     ready to go every session. Never forget a goal again!
 pricing_heading: Pricing
-pricing_subtitle: 14 DAY FREE TRIAL then just $9.99/month
-pricing_header_text: "You will be charged upon the completion of your trial.  \n10%
+pricing_subtitle: 14 DAY FREE TRIAL then just $14.99/month
+pricing_header_text: "You will be charged upon the completion of your trial.  \n15%
   discount for annual payment"
 pricing_body_header: 'Includes:'
 pricing_body_list:
@@ -38,12 +38,12 @@ pricing_body_list:
 - View on any device
 - HIPAA Compliant
 - Data Collection
-- 'Email Customer Support: info@swivelscheduler.com'
+- 'Email Customer Support: [info@swivelscheduler.com](mailto:info@swivelscheduler.com)'
 contact_heading: Keep in touch
 contact_subtitle: Enter your email address to be notified about SLP news and new Swivel
-  features.  Video tours of SWIVEL's features can bee viewed at bit.ly/swivelvideos
+  features.  Video tours of SWIVEL's features can be viewed at [bit.ly/swivelvideos](bit.ly/swivelvideos)
 contact_form_text: "We hate spam. We promise not to give out any of the information
-  entered onto this site.\n\n\nTo contact us, please email info@swivelscheduler.com
+  entered onto this site.\n\n\nTo contact us, please email [info@swivelscheduler.com](mailto:info@swivelscheduler.com)
   \ "
 layout: home
 ---
