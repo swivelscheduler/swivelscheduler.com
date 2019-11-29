@@ -24,9 +24,9 @@ features_slider:
   image2x: images/img-gallery03-2x.png
   icon: images/orion_agenda.svg
   heading: Automatically Generate Schedule
-  text: Swivel will take care of planning your student goals for each session. Know
-    your students' target goals weeks in advance for quick and easy planning. Have
-    ready to go every session. Never forget a goal again!
+  text: 'Swivel will take care of planning your student goals for each session. Know
+    your students'' target goals weeks in advance for quick and easy planning. Digital
+    data collection makes tracking progress and writing reports a breeze!  '
 pricing_heading: Pricing
 pricing_subtitle: 14 DAY FREE TRIAL then just $14.99/month
 pricing_header_text: "You will be charged upon the completion of your trial.  \n15%
