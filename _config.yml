@@ -44,7 +44,7 @@ main_nav:
 - title: Pricing
   url: "#pricingSection'"
   is_uppercase: true
-- title: Tutorials
+- title: About
   url: 'swivelscheduler.com/about '
   is_uppercase: true
 - title: Log In
