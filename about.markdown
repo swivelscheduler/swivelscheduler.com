@@ -2,12 +2,11 @@
 title: About
 date: 2019-05-24 21:51:00 Z
 permalink: "/about"
-redirect_to: https://swivelscheduler.com/tutorials
 layout: page
 ---
 
 
-Click on the links below to view video walk throughs of SWIVEL 
+Click on the links below to view video walk throughs of SWIVEL
 
 [Logging Into Your SWIVEL Scheduler Account
 ](https://youtu.be/Y92mYFlcWEg)
