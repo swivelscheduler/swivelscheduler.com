@@ -46,4 +46,4 @@ Click on the links below to view video walk throughs of SWIVEL
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/IziBTPrU9IA' frameborder='0' allowfullscreen></iframe></div>
 <br /><br />
 
-[See all video tutorials](https://bit.ly/swivelvideo)
+[See all video tutorials](https://www.youtube.com/channel/UCNTqkLlD_ZtjGEofHjw97Kg)
