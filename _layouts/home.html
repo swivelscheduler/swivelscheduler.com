@@ -43,14 +43,14 @@ layout: default
 	<div class="container">
 		<header class="heading-holder">
             <h1>{{ page.pricing_heading }}</h1>
-            <p class="subtitle">{{ page.pricing_subtitle }}</p>
-            <p>{{ page.pricing_header_text }}</p>
+            <p class="subtitle">{{ page.pricing_subtitle | markdownify }}</p>
+            <p>{{ page.pricing_header_text  | markdownify }}</p>
 		</header>
 		<div class="info-holder">
             <h6>{{ page.pricing_body_header }}</h6>
             <ul class="circle-list">
                 {% for item in page.pricing_body_list %}
-                <li>{{ item }}</li>
+                <li>{{ item | markdownify }}</li>
                 {% endfor %}
             </ul>
 		</div>
@@ -63,12 +63,12 @@ layout: default
 	<div class="container">
 		<header class="heading-holder">
             <h1>{{ page.contact_heading }}</h1>
-            <p class="subtitle">{{ page.contact_subtitle }}</p>
+            <p class="subtitle">{{ page.contact_subtitle | markdownify }}</p>
 		</header>
 		<div class="form-wrap">
 			<!-- Include Convertkit Form -->
 			{% include blocks/convertkit-form.html %}
-			<p>{{ page.contact_form_text }}</p>
+			<p>{{ page.contact_form_text | markdownify }}</p>
 		</div>
 	</div>
 </section>

@@ -54,6 +54,7 @@ main_nav:
 - title: Sign Up
   url: https://app.swivelscheduler.com/signup
   is_btn: true
+  is_uppercase: false
 footer_links:
 - title: Terms
   url: terms.html

@@ -60,6 +60,7 @@
 
 	a:not(.btn) {
 		display: block;
+		text-decoration: none;
 
 		@include media('<tablet') {
 			padding: 15px 0;
@@ -80,6 +81,7 @@
 	}
 
 	.btn {
+		text-decoration: none;
 		@include media('<tablet') {
 			margin: 15px 0;
 		}

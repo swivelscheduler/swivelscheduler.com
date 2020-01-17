@@ -54,7 +54,7 @@ p {
 a {
 	@include animate(color background border);
 	color: $base-link-color;
-	text-decoration: none;
+	text-decoration: underline;
 
 	&:hover,
 	&:focus {
