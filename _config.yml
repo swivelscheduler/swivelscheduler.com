@@ -40,20 +40,20 @@ sass:
   style: compressed
 main_nav:
 - title: Features
-  url: "#featuresSection"
+  url: "/#featuresSection"
   is_uppercase: true
 - title: Pricing
-  url: "#pricingSection'"
+  url: "/#pricingSection"
   is_uppercase: true
 - title: About
-  url: "/about "
+  url: "/about"
   is_uppercase: true
 - title: Log In
-  url: "/"
+  url: "https://app.swivelscheduler.com/login"
   is_uppercase: false
 - title: Sign Up
-  url: "/"
-  is_uppercase: false
+  url: "https://app.swivelscheduler.com/signup"
+  is_btn: true
 footer_links:
 - title: Terms
   url: terms.html
