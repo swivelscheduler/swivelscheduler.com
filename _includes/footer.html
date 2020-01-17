@@ -3,7 +3,7 @@
 		<span class="copyright"><a href="{{ site.url }}">Swivel Scheduler</a> &copy; {{ "now" | date: "%Y" }}</span>
 		<nav class="footer-navigation">
 			<ul>
-				{% for link in site.data.navigation.footer_links %}
+				{% for link in site.footer_links %}
 				<li><a href="{{ site.url }}/{{ link.url }}">{{ link.title }}</a></li>
 				{% endfor %}
 			</ul>

@@ -7,12 +7,12 @@ features_slider:
     icon: 'images/woman-user.svg'
     heading: Schedule Your Students
     text: Quickly and easily enter your therapy schedule.
-  
+
   - image: 'images/img-gallery02.png'
     icon: 'images/arrow-target.svg'
     heading: Add Students Goals
     text: Easily enter in student goals. Choose how often to target them and let Swivel do the rest.
-  
+
   - image: 'images/img-gallery03.png'
     icon: 'images/orion_agenda.svg'
     heading: Automatically Generate Schedule

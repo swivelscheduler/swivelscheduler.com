@@ -11,7 +11,7 @@
 		<nav class="main-nav">
 			<div class="nav-drop">
 				<ul class="nav-menu">
-					{% for link in site.data.navigation.main_nav %}
+					{% for link in site.main_nav %}
 					<li class="{% if page.url == link.url %}active{% endif %}">
 						<a class="{% if link.is_uppercase %}link-down {% endif %}{% if link.is_btn %}btn {% endif %}" href="{{ link.url }}">{{ link.title }}</a>
 					</li>
