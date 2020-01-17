@@ -5,7 +5,6 @@ permalink: "/about"
 layout: page
 ---
 
-
 Click on the links below to view video walk throughs of SWIVEL
 
 [Logging Into Your SWIVEL Scheduler Account
