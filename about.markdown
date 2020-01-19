@@ -5,6 +5,10 @@ permalink: "/about"
 layout: page
 ---
 
+So, what exactly is this SWIVEL Scheduler thing? 
+SWIVEL is a web-based app that manages all of your students' goals for you.  It will rotate all of their goals into your schedule, giving you a therapy plan for each day...weeks in advance! The only thing you need to do is decide what activity you want to use to target those goals.  
+SWIVEL will also help you collect and analyze data for all of those goals. You can take data right on your schedule and SWIVEL automatically links it to goal for that session. No extra steps for you.  To see how students are progressing, just click the goal and see a beautiful, clear graph showing progress and a trend line helping you to guide your therapy. 
+
 Click on the links below to view video walk throughs of SWIVEL
 
 <br />
