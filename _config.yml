@@ -49,7 +49,7 @@ main_nav:
   url: "/#pricingSection"
   is_uppercase: true
 - title: Advantage
-  url: https://app.swivelscheduler.com/advantage
+  url: "/advantage"
   is_btn: true
   is_uppercase: true
 - title: Log In
