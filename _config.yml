@@ -50,7 +50,7 @@ main_nav:
   is_uppercase: true
 - title: Advantage
   url: "/advantage"
-  is_btn: true
+  is_btn: false
   is_uppercase: true
 - title: Log In
   url: https://app.swivelscheduler.com/login
