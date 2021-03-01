@@ -1,5 +1,6 @@
 ---
 title: Terms of Service
+position: 3
 description: Swivel Scheduler Terms of Service
 keywords: terms of service
 layout: page

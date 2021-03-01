@@ -1,5 +1,6 @@
 ---
 title: Privacy Policy
+position: 4
 description: Swivel Scheduler's Privacy Policy
 keywords: privacy policy
 layout: page

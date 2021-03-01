@@ -1,5 +1,6 @@
 ---
 title: Swivel Scheduler · SLP Goal Management and Therapy Planning  Tool
+position: 1
 description: Automate your Speech Therapy. Make planning your sessions easy & automatic.
   View your therapy schedule and plan on any device. Never forget a goal again.
 intro_heading: Never Forget A Goal Again.

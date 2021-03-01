@@ -2,6 +2,7 @@
 title: Tutorials
 date: 2019-05-24 21:51:00 Z
 permalink: "/about"
+position: 8
 layout: page
 ---
 
