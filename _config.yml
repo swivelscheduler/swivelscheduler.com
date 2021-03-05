@@ -42,7 +42,7 @@ main_nav:
 - title: Features
   url: "/#featuresSection"
   is_uppercase: true
-- title: About
+- title: Tutorials
   url: "/about"
   is_uppercase: true
 - title: Pricing
@@ -50,6 +50,10 @@ main_nav:
   is_uppercase: true
 - title: Advantage
   url: "/advantage"
+  is_btn: false
+  is_uppercase: true
+- title: Contact Us
+  url: "/contactus"
   is_btn: false
   is_uppercase: true
 - title: Log In
