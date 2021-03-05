@@ -54,7 +54,7 @@ main_nav:
   is_uppercase: true
 - title: Contact Us
   url: "/contact-us.html"
-  is_btn: false
+  is_btn: 
   is_uppercase: true
 - title: Log In
   url: https://app.swivelscheduler.com/login
