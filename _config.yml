@@ -53,7 +53,7 @@ main_nav:
   is_btn: false
   is_uppercase: true
 - title: Contact Us
-  url: "/contact-us"
+  url: "/contact-us.html"
   is_btn: false
   is_uppercase: true
 - title: Log In
