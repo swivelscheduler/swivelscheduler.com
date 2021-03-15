@@ -29,7 +29,7 @@ features_slider:
     your students'' target goals weeks in advance for quick and easy planning. Digital
     data collection makes tracking progress and writing reports a breeze!  '
 pricing_heading: Pricing
-pricing_subtitle: "14 DAY FREE TRIAL then just:\n\n $14.99 Monthly Plan \n\n                  or\n\n
+pricing_subtitle: "14 DAY FREE TRIAL then just:\n\n $14.99 Monthly Plan \n\n  or\n\n
   $127.50  Annual Plan \n*three months for free*\n"
 pricing_header_text: "You will be charged upon the completion of your trial.  \n"
 pricing_body_header: 'Includes:'
